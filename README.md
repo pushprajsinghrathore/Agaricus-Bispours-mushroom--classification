@@ -14,17 +14,11 @@ Although this dataset was originally contributed to the UCI Machine Learning rep
 Content
 This dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like "leaflets three, let it be'' for Poisonous Oak and Ivy.
 
-Time period: Donated to UCI ML 27 April 1987
-Inspiration
-What types of machine learning models perform best on this dataset?
-
-Which features are most indicative of a poisonous mushroom?
-
-Acknowledgements
--
-This dataset was originally donated to the UCI Machine Learning repository. You can learn more about past research using the data
-
 Conclusions. 
 -
 
 -- For the next step, I trained 3 different machine learning models which are Random Forest Classifier, SVM, and finally, XGBClassifier.Due to the results of these machine learning models, I obtained %100 accuracy for each machine learning model. As far as I search about the Discussion Forum    of this dataset, it is pretty common for everyone. And as far as analyzed the errors of the models, every 3 models do not perform overfitting.
+
+Youtube Video link
+-
+https://www.youtube.com/watch?v=TJ-rKlfeHg4&t=39s&ab_channel=PushprajSinghRathore
